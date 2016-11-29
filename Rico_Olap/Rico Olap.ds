@@ -6,7 +6,7 @@
   <ConnectionString>Provider=SQLNCLI11.1;Data Source=localhost;Persist Security Info=True;Password=;User ID=;Initial Catalog=rico_olap</ConnectionString>
   <ConnectionStringSecurity>PasswordRemoved</ConnectionStringSecurity>
   <ImpersonationInfo>
-    <ImpersonationMode>ImpersonateCurrentUser</ImpersonationMode>
+    <ImpersonationMode>ImpersonateServiceAccount</ImpersonationMode>
     <ImpersonationInfoSecurity>Unchanged</ImpersonationInfoSecurity>
   </ImpersonationInfo>
   <Timeout>PT0S</Timeout>

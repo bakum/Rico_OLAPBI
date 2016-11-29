@@ -12,12 +12,6 @@
       <FullPath>Rico Olap.ds</FullPath>
     </ProjectItem>
   </DataSources>
-  <DataSourceViews>
-    <ProjectItem>
-      <Name>Rico Olap.dsv</Name>
-      <FullPath>Rico Olap.dsv</FullPath>
-    </ProjectItem>
-  </DataSourceViews>
   <Configurations>
     <Configuration>
       <Name>Development</Name>
