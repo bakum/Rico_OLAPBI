@@ -6,6 +6,24 @@
     <Name>Rico_Olap.database</Name>
     <FullPath>Rico_Olap.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>Rico Olap.cube</Name>
+      <FullPath>Rico Olap.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Rico Olap.partitions</Name>
+          <FullPath>Rico Olap.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
+  <Dimensions>
+    <ProjectItem>
+      <Name>Периоды.dim</Name>
+      <FullPath>Периоды.dim</FullPath>
+    </ProjectItem>
+  </Dimensions>
   <DataSources>
     <ProjectItem>
       <Name>Rico Olap.ds</Name>
