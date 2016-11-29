@@ -7,14 +7,14 @@
           <ConfigurationSetting>
             <Id>Rico Olap</Id>
             <Name>Rico Olap</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArRVe83whcU2RHuzLFo2x8QAAAAAUAAAAUgBpAGMAbwAgAE8AbABhAHAAAAAQZgAAAAEAACAAAAC8MwN5EfMVGaVun6E7dS9a9G07Vz8ZzN1Qk4b2LaGMLAAAAAAOgAAAAAIAACAAAADrgeMHyotb48tm6T/3XARZ4EoKug/jtRF/Hdwx7TUqBxAAAACNApDWDpdPFx7Un1KduVV+QAAAAATBNeIISFvGDP8po2uQiOu75AyGEwTUVuKnUlLpZC68IxDN9V1IxNXoA1GscleDVLDhgzKH3YwctnARnoZPizc=</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArRVe83whcU2RHuzLFo2x8QAAAAAUAAAAUgBpAGMAbwAgAE8AbABhAHAAAAAQZgAAAAEAACAAAADQRrge1UjeOyB0vSMResQotMQAWluRblsG1x8nV/bAmAAAAAAOgAAAAAIAACAAAAA6+sF5mJif5eVJ1/APuXIWH4wo8x3MhMXTqsFKfaCL0BAAAACwZ7hxWDvOm2Eb/++L4p2jQAAAAIgU9tc8Y4tPT/Vd0vT5Mb2dSZ+lRoE2FtrDw8j/x+RHgnW4567TZ2Jnu90YLw99Dafe0E1f+LqriE1Wotrjo7g=</Value>
           </ConfigurationSetting>
         </UserIDs>
         <UserPasswords>
           <ConfigurationSetting>
             <Id>Rico Olap</Id>
             <Name>Rico Olap</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArRVe83whcU2RHuzLFo2x8QAAAAAUAAAAUgBpAGMAbwAgAE8AbABhAHAAAAAQZgAAAAEAACAAAAC6rRHzaqgIblo91ro+ocVlaztpzNy46OJ396qJYGniMQAAAAAOgAAAAAIAACAAAABt9ercey0ydkkssJHz6byj8KNJXvu6vVTvTBN1gEFhdCAAAACnAdrs87fhk3uFjxTcMOwWNwQweXOqmzw97QQyeollI0AAAADzh0lqt1yi0ofutAFc+jJzGUpI4uqw2gzA17/Q+t+5Pkq5Rj/FlekhgGu0raaF8Rt1fraeS9GEkgRJALUh8Fd0</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArRVe83whcU2RHuzLFo2x8QAAAAAUAAAAUgBpAGMAbwAgAE8AbABhAHAAAAAQZgAAAAEAACAAAAA6UvaX9RQ2DigMKkiYK3H7Ehiq2Wyxl/ftMu3mR02RdwAAAAAOgAAAAAIAACAAAADDJQL0FpvpH8LmD4kIb7GL5Mqbs5mEhl3urYj9+OaxyiAAAABu7NLaQW9fQ9fTw+cKmmkiTM9xmmOL6y9aBdTP2TSlQEAAAACKuo2CtEjT7L4Zttk2vZtlw+cwtOyUQx0iIUEfC8E9pHgug/Qw9xbBBbkBSQAd+3WGHR390f3YptfRlOuPbCWQ</Value>
           </ConfigurationSetting>
         </UserPasswords>
         <TargetServer>localhost</TargetServer>
