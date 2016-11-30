@@ -20,8 +20,12 @@
   </Cubes>
   <Dimensions>
     <ProjectItem>
-      <Name>Периоды.dim</Name>
-      <FullPath>Периоды.dim</FullPath>
+      <Name>Номенклатура.dim</Name>
+      <FullPath>Номенклатура.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Календарь.dim</Name>
+      <FullPath>Календарь.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

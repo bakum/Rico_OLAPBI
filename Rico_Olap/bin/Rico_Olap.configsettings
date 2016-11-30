@@ -12,7 +12,10 @@
     </DataSources>
     <Dimensions>
       <Dimension>
-        <ID>Периоды</ID>
+        <ID>Номенклатура</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Календарь</ID>
       </Dimension>
     </Dimensions>
     <Cubes>

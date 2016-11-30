@@ -26,21 +26,28 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>h3u+Y1FB6MpnQ9GoCMZDWGfL2gI=29.11.2016 22:42:0529.11.2016 20:05:58</TimeStamp>
+        <TimeStamp>Rr8SGUn/Gw9uf0y7Iw/y7dR2xiM=30.11.2016 15:32:0729.11.2016 20:05:58</TimeStamp>
         <ID>
           <String>Rico Olap</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>/e0axPFZYez6YKid7qxd41WgMFI=29.11.2016 22:39:4429.11.2016 22:36:38</TimeStamp>
+        <TimeStamp>AAXLaGPsnyoA5eylIjpHdLksTCs=30.11.2016 0:03:2129.11.2016 23:56:44</TimeStamp>
         <ID>
-          <String>Периоды</String>
+          <String>Номенклатура</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hEOkzj1sY6694sQn1N4Rjdb5ZvQ=30.11.2016 15:53:2830.11.2016 15:39:23</TimeStamp>
+        <ID>
+          <String>Календарь</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>GFtNe+6AX8XUoppwbUy3LFDV5EM=29.11.2016 22:53:1229.11.2016 22:45:34z5kkuDy7EaK6DLDnn3vW6q51ACk=29.11.2016 22:45:3429.11.2016 22:45:34</TimeStamp>
+        <TimeStamp>p98OcJEHz3cc9+f4tVlImLvAe2Y=30.11.2016 15:46:3829.11.2016 22:45:34z5kkuDy7EaK6DLDnn3vW6q51ACk=29.11.2016 22:45:3429.11.2016 22:45:34</TimeStamp>
         <ID>
           <String>Rico Olap</String>
         </ID>
@@ -57,5 +64,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-11-29T20:53:49.036667Z</LastDeployed>
+  <LastDeployed>2016-11-30T13:53:49.206667Z</LastDeployed>
 </DeploymentSnapshot>
