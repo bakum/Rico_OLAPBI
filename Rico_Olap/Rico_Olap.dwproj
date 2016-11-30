@@ -27,6 +27,14 @@
       <Name>Календарь.dim</Name>
       <FullPath>Календарь.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Клиенты.dim</Name>
+      <FullPath>Клиенты.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>ВалютаУпрУчета.dim</Name>
+      <FullPath>ВалютаУпрУчета.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>

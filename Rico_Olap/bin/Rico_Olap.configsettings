@@ -17,6 +17,12 @@
       <Dimension>
         <ID>Календарь</ID>
       </Dimension>
+      <Dimension>
+        <ID>Клиенты</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Валюта Упр Учета</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
