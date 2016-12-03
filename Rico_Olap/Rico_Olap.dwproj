@@ -35,6 +35,10 @@
       <Name>ВалютаУпрУчета.dim</Name>
       <FullPath>ВалютаУпрУчета.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Типы Цен.dim</Name>
+      <FullPath>Типы Цен.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
