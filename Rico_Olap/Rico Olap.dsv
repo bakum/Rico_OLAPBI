@@ -721,7 +721,7 @@
                 </xs:sequence>
               </xs:complexType>
             </xs:element>
-            <xs:element name="dbo_Vw_Calendar" msprop:design-time-name="8cdff5c2-8e72-4a9e-8743-f3fa579982d2" msprop:FriendlyName="Календарь" msprop:DbSchemaName="dbo" msprop:DbTableName="Vw_Calendar" msprop:TableType="View">
+            <xs:element name="dbo_Vw_Calendar" msprop:design-time-name="8cdff5c2-8e72-4a9e-8743-f3fa579982d2" msprop:FriendlyName="Календарь" msprop:DbSchemaName="dbo" msprop:DbTableName="vwCalendar" msprop:TableType="View">
               <xs:complexType>
                 <xs:sequence>
                   <xs:element name="pk_date" msdata:ReadOnly="true" msprop:design-time-name="3826e5e9-8f21-4fae-9a88-5036e8fbcce8" msprop:DbColumnName="pk_date" msprop:FriendlyName="pk_date" type="xs:int" minOccurs="0" />

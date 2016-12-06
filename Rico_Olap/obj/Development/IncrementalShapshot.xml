@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>Qa6XaLkLX62klWYgsl1t4wCjZH8=04.12.2016 0:10:2129.11.2016 20:05:58</TimeStamp>
+        <TimeStamp>DIyfvwINTWg/aRixVnlS9wZj3MI=04.12.2016 17:08:1729.11.2016 20:05:58</TimeStamp>
         <ID>
           <String>Rico Olap</String>
         </ID>
@@ -85,5 +85,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-12-03T22:10:28.13Z</LastDeployed>
+  <LastDeployed>2016-12-04T15:08:36.94Z</LastDeployed>
 </DeploymentSnapshot>
