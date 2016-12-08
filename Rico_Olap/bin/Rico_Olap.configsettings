@@ -26,6 +26,9 @@
       <Dimension>
         <ID>Типы Цен</ID>
       </Dimension>
+      <Dimension>
+        <ID>Склады</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
@@ -36,6 +39,19 @@
             <Partitions>
               <Partition>
                 <ID>Продажи</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
+        </MeasureGroups>
+      </Cube>
+      <Cube>
+        <ID>Rico Stock</ID>
+        <MeasureGroups>
+          <MeasureGroup>
+            <ID>Остатки Товаров На Складах</ID>
+            <Partitions>
+              <Partition>
+                <ID>Остатки Товаров На Складах</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

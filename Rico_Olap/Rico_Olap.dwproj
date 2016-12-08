@@ -17,6 +17,16 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Rico Stock.cube</Name>
+      <FullPath>Rico Stock.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>Rico Stock.partitions</Name>
+          <FullPath>Rico Stock.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>
@@ -38,6 +48,10 @@
     <ProjectItem>
       <Name>Типы Цен.dim</Name>
       <FullPath>Типы Цен.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Склады.dim</Name>
+      <FullPath>Склады.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

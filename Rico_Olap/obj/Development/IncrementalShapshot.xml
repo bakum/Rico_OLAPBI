@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>Default</ProcessingOption>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>DIyfvwINTWg/aRixVnlS9wZj3MI=04.12.2016 17:08:1729.11.2016 20:05:58</TimeStamp>
+        <TimeStamp>3aC0jkjRdi543TrfT0Jz7Zxm7Z4=08.12.2016 17:21:5829.11.2016 20:05:58</TimeStamp>
         <ID>
           <String>Rico Olap</String>
         </ID>
@@ -67,10 +67,24 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>JIITWjSS5450eXmvTmgE4/DM48w=08.12.2016 17:33:5408.12.2016 17:26:28</TimeStamp>
+        <ID>
+          <String>Склады</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>3RUzgl+HyfjpBZ7xY03aS61erU8=04.12.2016 0:02:5929.11.2016 22:45:34z5kkuDy7EaK6DLDnn3vW6q51ACk=30.11.2016 23:00:4129.11.2016 22:45:34</TimeStamp>
+        <TimeStamp>tlTe68JLWt29+sCypfw4behrvEs=08.12.2016 16:40:2729.11.2016 22:45:34z5kkuDy7EaK6DLDnn3vW6q51ACk=07.12.2016 23:53:0229.11.2016 22:45:34</TimeStamp>
         <ID>
           <String>Rico Olap</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>jHldLBKRT725qsmBCwoYrIDTkXs=08.12.2016 17:38:2508.12.2016 17:23:09POv7/5syitY6nybppq9uSJ6pSV0=08.12.2016 17:25:5408.12.2016 17:23:09</TimeStamp>
+        <ID>
+          <String>Rico Stock</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -85,5 +99,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-12-04T15:08:36.94Z</LastDeployed>
+  <LastDeployed>2016-12-08T15:38:28.993333Z</LastDeployed>
 </DeploymentSnapshot>
