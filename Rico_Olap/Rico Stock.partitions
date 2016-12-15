@@ -21,5 +21,25 @@
         </Partition>
       </Partitions>
     </MeasureGroup>
+    <MeasureGroup>
+      <ID>Остатки И Обороты Товаров На Складе</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="cebab6ae-41ad-480c-94b7-aa1731f3309f">
+          <ID>Остатки И Обороты Товаров На Складе</ID>
+          <Name>Остатки И Обороты Товаров На Складе</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="2aadb854-aff6-4ada-a7d0-d513031fc68b">
+            <DataSourceViewID>Rico Olap</DataSourceViewID>
+            <TableID>ОстаткиИОборотыТоваровНаСкладе</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
   </MeasureGroups>
 </Cube>

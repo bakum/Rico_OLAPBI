@@ -55,6 +55,14 @@
               </Partition>
             </Partitions>
           </MeasureGroup>
+          <MeasureGroup>
+            <ID>Остатки И Обороты Товаров На Складе</ID>
+            <Partitions>
+              <Partition>
+                <ID>Остатки И Обороты Товаров На Складе</ID>
+              </Partition>
+            </Partitions>
+          </MeasureGroup>
         </MeasureGroups>
       </Cube>
     </Cubes>

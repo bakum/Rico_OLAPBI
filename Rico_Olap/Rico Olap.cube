@@ -280,6 +280,12 @@
         <Attribute dwd:design-time-name="05b2d6cd-0d99-4118-b707-d7cfaabee34b">
           <AttributeID>Базовая Единица Измерения Имя</AttributeID>
         </Attribute>
+        <Attribute dwd:design-time-name="c1d191dc-4005-4cab-a98a-2f2eaab775af">
+          <AttributeID>Артикул</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f085db1f-3828-4932-b2a5-179ac67f61b5">
+          <AttributeID>Код</AttributeID>
+        </Attribute>
       </Attributes>
       <Hierarchies>
         <Hierarchy dwd:design-time-name="a7986582-3eee-4fff-8b9d-8369dfc794ab">
