@@ -97,6 +97,7 @@
       <ID>V8 ID</ID>
       <Name>Склады</Name>
       <Usage>Key</Usage>
+      <EstimatedCount>32</EstimatedCount>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="2416e7eb-25cd-452e-abd0-4f4ecf2545a3">
           <DataType>WChar</DataType>

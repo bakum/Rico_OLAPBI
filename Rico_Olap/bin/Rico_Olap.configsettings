@@ -29,37 +29,32 @@
       <Dimension>
         <ID>Склады</ID>
       </Dimension>
+      <Dimension>
+        <ID>Периоды</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>
-        <ID>Rico Olap</ID>
+        <ID>Rico Stock Turnover</ID>
         <MeasureGroups>
           <MeasureGroup>
-            <ID>Продажи</ID>
+            <ID>Партии Товаров На Складах</ID>
             <Partitions>
               <Partition>
-                <ID>Продажи</ID>
+                <ID>Партии Товаров На Складах</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>
         </MeasureGroups>
       </Cube>
       <Cube>
-        <ID>Rico Stock</ID>
+        <ID>RicoSales</ID>
         <MeasureGroups>
           <MeasureGroup>
-            <ID>Остатки Товаров На Складах</ID>
+            <ID>Продажи</ID>
             <Partitions>
               <Partition>
-                <ID>Остатки Товаров На Складах</ID>
-              </Partition>
-            </Partitions>
-          </MeasureGroup>
-          <MeasureGroup>
-            <ID>Остатки И Обороты Товаров На Складе</ID>
-            <Partitions>
-              <Partition>
-                <ID>Остатки И Обороты Товаров На Складе</ID>
+                <ID>Продажи</ID>
               </Partition>
             </Partitions>
           </MeasureGroup>

@@ -132,6 +132,7 @@
       <ID>Продукт</ID>
       <Name>Продукт</Name>
       <Usage>Key</Usage>
+      <EstimatedCount>3582</EstimatedCount>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="b0e49bca-26b7-4c8e-86f6-3c1825bf7266">
           <DataType>WChar</DataType>
@@ -201,6 +202,7 @@
     <Attribute dwd:design-time-name="4a810e08-857c-476f-9eb4-8d079252009e">
       <ID>Услуга</ID>
       <Name>Услуга</Name>
+      <EstimatedCount>2</EstimatedCount>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="efde8597-a5e6-42c5-81d0-28ea7995b7ce">
           <DataType>WChar</DataType>
@@ -227,6 +229,7 @@
     <Attribute dwd:design-time-name="1dbebda1-24ba-4315-9c76-57366a31c32c">
       <ID>Базовая Единица Измерения Имя</ID>
       <Name>Базовая Единица Измерения Имя</Name>
+      <EstimatedCount>18</EstimatedCount>
       <KeyColumns>
         <KeyColumn dwd:design-time-name="ee5b022f-14a2-4ff4-9e03-47bac864e8c9">
           <DataType>WChar</DataType>
