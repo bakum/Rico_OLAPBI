@@ -26,14 +26,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>pHnOA2eQl0a6zp15KkLwrPCNaAA=15.12.2016 13:10:5629.11.2016 20:05:58</TimeStamp>
+        <TimeStamp>nGhZhMYn0b9EOdFR9emVDSaIhyY=27.12.2016 16:52:1329.11.2016 20:05:58</TimeStamp>
         <ID>
           <String>Rico Olap</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>c16w0z9A/+1u+Qjppw08RS2Zq1Y=15.12.2016 15:39:3029.11.2016 23:56:44</TimeStamp>
+        <TimeStamp>c16w0z9A/+1u+Qjppw08RS2Zq1Y=15.12.2016 22:03:0329.11.2016 23:56:44</TimeStamp>
         <ID>
           <String>Номенклатура</String>
         </ID>
@@ -47,7 +47,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>cGryhYYpHpvyIAelEGQvxJl2KLQ=30.11.2016 23:00:4130.11.2016 22:09:42</TimeStamp>
+        <TimeStamp>UPl5L0G72xjXfjPcSXkMdNmcO5k=27.12.2016 16:52:4630.11.2016 22:09:42</TimeStamp>
         <ID>
           <String>Клиенты</String>
         </ID>
@@ -68,28 +68,28 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>5tKA4rjyPqxByJx7KaUZ2Liqq6c=15.12.2016 15:39:3008.12.2016 17:26:28</TimeStamp>
+        <TimeStamp>5tKA4rjyPqxByJx7KaUZ2Liqq6c=15.12.2016 22:03:0308.12.2016 17:26:28</TimeStamp>
         <ID>
           <String>Склады</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>9tMc0ECFv78HOJEAMEiI0hQTX4g=15.12.2016 16:40:0715.12.2016 15:34:35</TimeStamp>
+        <TimeStamp>9tMc0ECFv78HOJEAMEiI0hQTX4g=15.12.2016 22:03:0315.12.2016 15:34:35</TimeStamp>
         <ID>
           <String>Периоды</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>D6wFnQaO31iYuiE5zOT+/QIqub4=15.12.2016 18:29:4215.12.2016 13:11:523tgeAgT64e45CjODtBjRlsmaomQ=15.12.2016 15:42:3915.12.2016 13:11:52</TimeStamp>
+        <TimeStamp>D6wFnQaO31iYuiE5zOT+/QIqub4=15.12.2016 22:03:0315.12.2016 13:11:523tgeAgT64e45CjODtBjRlsmaomQ=15.12.2016 22:03:0315.12.2016 13:11:52</TimeStamp>
         <ID>
           <String>Rico Stock Turnover</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>Ha84NLWlKeCT2vrj81mTR2wmfP4=15.12.2016 14:13:1915.12.2016 14:13:19z5kkuDy7EaK6DLDnn3vW6q51ACk=07.12.2016 23:53:0215.12.2016 14:13:19</TimeStamp>
+        <TimeStamp>CN7FgyuBBzWBNnWrktaD0DwuyYo=27.12.2016 16:52:4615.12.2016 14:13:19z5kkuDy7EaK6DLDnn3vW6q51ACk=15.12.2016 22:03:0315.12.2016 14:13:19</TimeStamp>
         <ID>
           <String>RicoSales</String>
         </ID>
@@ -106,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-12-15T16:29:49.69Z</LastDeployed>
+  <LastDeployed>2016-12-27T14:52:50.53Z</LastDeployed>
 </DeploymentSnapshot>
